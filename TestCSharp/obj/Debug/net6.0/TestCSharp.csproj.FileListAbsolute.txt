@@ -1,0 +1,15 @@
+D:\Python\Misha_Study\TestCSharp\bin\Debug\net6.0\TestCSharp.exe
+D:\Python\Misha_Study\TestCSharp\bin\Debug\net6.0\TestCSharp.deps.json
+D:\Python\Misha_Study\TestCSharp\bin\Debug\net6.0\TestCSharp.runtimeconfig.json
+D:\Python\Misha_Study\TestCSharp\bin\Debug\net6.0\TestCSharp.dll
+D:\Python\Misha_Study\TestCSharp\bin\Debug\net6.0\TestCSharp.pdb
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.csproj.AssemblyReference.cache
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.AssemblyInfoInputs.cache
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.AssemblyInfo.cs
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.csproj.CoreCompileInputs.cache
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.dll
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\refint\TestCSharp.dll
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.pdb
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\TestCSharp.genruntimeconfig.cache
+D:\Python\Misha_Study\TestCSharp\obj\Debug\net6.0\ref\TestCSharp.dll
